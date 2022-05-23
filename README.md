@@ -8,3 +8,5 @@
 * [Dictionary](https://github.com/Heodoo/swift_algo/blob/main/CountAlgorithm.playground/Contents.swift)
 * [ReverseWord](https://github.com/Heodoo/swift_algo/blob/main/reverseWords.playground/Contents.swift)
 * [FinbonacciSequence](https://github.com/Heodoo/swift_algo/blob/main/fibonacciSequence.playground/Contents.swift)
+* [HigherOrderFunction](https://github.com/Heodoo/swift_algo/blob/main/higherOrderFunction.playground/Contents.swift)
+*** filter, map, reduce
