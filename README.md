@@ -8,7 +8,7 @@
 * [ReverseWord](https://github.com/Heodoo/swift_algo/blob/main/reverseWords.playground/Contents.swift)
 * [FinbonacciSequence](https://github.com/Heodoo/swift_algo/blob/main/fibonacciSequence.playground/Contents.swift)
 * [HigherOrderFunction](https://github.com/Heodoo/swift_algo/blob/main/higherOrderFunction.playground/Contents.swift) (filter,map,reduce)
-* [BinarySearchTree](https://github.com/Heodoo/swift_algo/blob/main/searchBinaryTree.playground/Contents.swift) 개선 필요
+* [BinarySearchTree](https://github.com/Heodoo/swift_algo/blob/main/searchBinaryTree.playground/Contents.swift)
 * [AbstractSyntaxTree](https://github.com/Heodoo/swift_algo/blob/main/AbstractSyntaxTree.playground/Contents.swift)
 
 # Useful
