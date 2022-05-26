@@ -18,4 +18,4 @@
 * [Coding Ground](https://www.tutorialspoint.com/codingground.htm) (swift code edit,run in Web)
 
 # Reference
-* [FizzBuzz's Swift Fun Algorithms](https://www.youtube.com/playlist?list=PL0dzCUj1L5JFJlR7dpBfBtEJB84pCZJ3R)
+* [Swift Fun Algorithms](https://www.youtube.com/playlist?list=PL0dzCUj1L5JFJlR7dpBfBtEJB84pCZJ3R)
