@@ -43,7 +43,7 @@ func searchTree(curNode:Node){
         }
     }
 
-// 더 효율적으로 찾는 search 함수를 다시 만들어보기 (값의 크기에 따라 왼쪽으로 갈지 오른쪽으로 갈지) #0523
+// 더 효율적으로 찾는 search 함수를 다시 만들어보기 (값의 크기에 따라 왼쪽으로 갈지 오른쪽으로 갈지) -> search2
 func search(curNode:Node?,searchValue: Int)->Bool{
     if curNode == nil {
         return false
@@ -56,6 +56,22 @@ func search(curNode:Node?,searchValue: Int)->Bool{
     }
 }
 
+func search2(curNode:Node?,searchValue : Int)-> Bool {
+    if let node = curNode {
+        if searchValue > node.value {
+            return search2(curNode: node.rightChild, searchValue: searchValue)
+        }else if searchValue < node.value{
+            return search2(curNode: node.leftChild, searchValue: searchValue)
+        }
+        else{
+            print("\(searchValue) exist!")
+            return true
+        }
+    }else{
+        return false
+    }
+}
+
 var rootNode = Node(value: 10, leftChild: nil, rightChild: nil)
 insertNode(curNode: rootNode, newValue: 5)
 insertNode(curNode: rootNode, newValue: 1)
@@ -64,3 +80,4 @@ insertNode(curNode: rootNode, newValue: 11)
 insertNode(curNode: rootNode, newValue: 20)
 searchTree(curNode: rootNode)
 search(curNode: rootNode, searchValue: 20)
+search2(curNode: rootNode, searchValue: 20)
