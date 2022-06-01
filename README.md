@@ -14,6 +14,7 @@
 * [RetainCycle](https://github.com/Heodoo/swift_algo/blob/main/RetainCycle.playground/Contents.swift) (weak)
 * [ClosureReferenceCycles](https://github.com/Heodoo/swift_algo/blob/main/ClosureReferenceCycles.playground/Contents.swift)
 * [DrawCircle](https://github.com/Heodoo/swift_algo/blob/main/CircleAlgorithm.playground/Contents.swift)
+* [PalindromeCounts](https://github.com/Heodoo/swift_algo/blob/main/PalindromeCounts.playground/Contents.swift)
 # My
 * [BreadthFirstSearch](https://github.com/Heodoo/swift_algo/blob/main/BreadthFirstSearch.playground/Contents.swift)
 
