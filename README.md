@@ -17,6 +17,7 @@
 * [PalindromeCounts](https://github.com/Heodoo/swift_algo/blob/main/PalindromeCounts.playground/Contents.swift)
 # My
 * [BreadthFirstSearch](https://github.com/Heodoo/swift_algo/blob/main/BreadthFirstSearch.playground/Contents.swift)
+* [DepthFirstSearch](https://github.com/Heodoo/swift_algo/blob/main/DepthFirstSearch.playground/Contents.swift)
 
 # Useful
 * [Coding Ground](https://www.tutorialspoint.com/codingground.htm) (swift code edit,run in Web)
