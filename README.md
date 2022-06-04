@@ -18,6 +18,7 @@
 # My
 * [BreadthFirstSearch](https://github.com/Heodoo/swift_algo/blob/main/BreadthFirstSearch.playground/Contents.swift)
 * [DepthFirstSearch](https://github.com/Heodoo/swift_algo/blob/main/DepthFirstSearch.playground/Contents.swift)
+* [MergeSort](https://github.com/Heodoo/swift_algo/blob/main/MergeSort.playground/Contents.swift)
 
 # Useful
 * [Coding Ground](https://www.tutorialspoint.com/codingground.htm) (swift code edit,run in Web)
