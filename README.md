@@ -20,6 +20,7 @@
 * [DepthFirstSearch](https://github.com/Heodoo/swift_algo/blob/main/DepthFirstSearch.playground/Contents.swift)
 * [MergeSort](https://github.com/Heodoo/swift_algo/blob/main/MergeSort.playground/Contents.swift)
 * [QuickSort](https://github.com/Heodoo/swift_algo/blob/main/QuickSort.playground/Contents.swift)
+* [PriorityQueue](https://github.com/Heodoo/swift_algo/blob/main/priorityQueue.playground/Contents.swift) (MaxHeap)
 
 # Useful
 * [Coding Ground](https://www.tutorialspoint.com/codingground.htm) (swift code edit,run in Web)
